@@ -1,0 +1,14 @@
+# 忽略环境变量文件
+.env
+
+# 忽略虚拟环境和缓存
+__pycache__/
+*.py[cod]
+venv/
+miniforge3/
+
+# 忽略 Gradio 临时文件夹
+gradio_temp/
+
+# 忽略模型文件（模型文件太大，GitHub 不适合存大文件）
+*.pkl
