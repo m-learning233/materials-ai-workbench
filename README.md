@@ -45,7 +45,7 @@ materials-ai-workbench/
 └── .gitignore           # Git 忽略规则（保护密钥）
 
 ##  作者
- 孟令超(材料学硕士)
+ 孟令超
  Github：@m-learning233
 
 ##  许可证
